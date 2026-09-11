@@ -13,6 +13,7 @@
 - Linux Capabilities Privilege Escalation - https://medium.com/@int0x33/day-44-linux-capabilities-privilege-escalation-via-openssl-with-selinux-enabled-and-enforced-74d2bec02099
 - SUID vs Capabilities - https://mn3m.info/posts/suid-vs-capabilities/
 
+
 ### Search for Exploits
 - Google Search Operators
 ```
@@ -30,6 +31,7 @@ searchsploit samba 2.2.1a
 
 - Kernel Exploits - https://github.com/lucyoa/kernel-exploits
 
+
 ### Search for a Reverse Shell:
 -  InternalAllTheThings - https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet
 - Kali Local Path - `/usr/share/webshells/`
@@ -38,11 +40,14 @@ searchsploit samba 2.2.1a
 - PHP Reverse Shell - https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 - Reverse Shell Cheat Sheet - https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
+
 ### Customize a Reverse Shell
 - https://www.revshells.com/
 
+
 ### Upgrade a Shell
 - https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell
+
 
 ### Linux Tools
 - LinPeas.sh - https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
