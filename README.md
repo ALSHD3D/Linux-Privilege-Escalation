@@ -1,6 +1,4 @@
 # Linux-Privilege-Escalation
-All the Resources and Tools you need for your Linux Priv Esc
-
 
 ### Learn Linux Priv Esc
 - Basic Linux Privilege Escalation - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
