@@ -119,7 +119,7 @@ GTFOBins is a practical reference for Unix/Linux binaries that can potentially b
 Particularly useful areas include:
 
 * SUID
-* `sudo`
+* sudo
 * Capabilities
 * Shell escapes
 * File read/write
