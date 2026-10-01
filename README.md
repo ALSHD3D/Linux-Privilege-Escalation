@@ -23,7 +23,7 @@ The main areas are:
 * Automated enumeration
 * Shell and TTY references
 
----
+
 
 ## 1. Learn Linux Privilege Escalation
 
@@ -49,7 +49,7 @@ The main areas are:
 * **HackTricks - Linux Privilege Escalation Checklist**
   https://hacktricks.wiki/en/linux-hardening/main-system-information/linux-privilege-escalation-checklist.html
 
----
+
 
 ## 2. Linux Capabilities
 
