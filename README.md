@@ -31,27 +31,27 @@ Resources that are not directly Linux-specific, such as generic reverse-shell an
 
 ### Comprehensive Guides
 
-* **g0tmi1k — Basic Linux Privilege Escalation**
+* **g0tmi1k - Basic Linux Privilege Escalation**
   https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
 
-* **PayloadsAllTheThings — Linux Privilege Escalation**
+* **PayloadsAllTheThings - Linux Privilege Escalation**
   https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
 
-* **Sushant 747 — Linux Privilege Escalation Guide**
+* **Sushant 747 - Linux Privilege Escalation Guide**
   https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html
 
-* **HackTricks — Linux Privilege Escalation**
+* **HackTricks - Linux Privilege Escalation**
   https://hacktricks.wiki/en/linux-hardening/linux-basics/linux-privilege-escalation/index.html
 
-* **InternalAllTheThings — Linux Privilege Escalation**
+* **InternalAllTheThings - Linux Privilege Escalation**
   https://swisskyrepo.github.io/InternalAllTheThings/redteam/escalation/linux-privilege-escalation
 
 ### Checklists
 
-* **HackTricks — Linux Privilege Escalation Checklist**
+* **HackTricks - Linux Privilege Escalation Checklist**
   https://hacktricks.wiki/en/linux-hardening/main-system-information/linux-privilege-escalation-checklist.html
 
-* **HackTricks — Linux Privilege Escalation**
+* **HackTricks - Linux Privilege Escalation**
   https://hacktricks.wiki/en/linux-hardening/linux-basics/linux-privilege-escalation/index.html
 
 ---
@@ -63,7 +63,7 @@ Linux capabilities are a distinct privilege-escalation area and deserve their ow
 * **Linux Privilege Escalation Using Capabilities**
   https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
-* **Linux Capabilities Privilege Escalation — OpenSSL / SELinux**
+* **Linux Capabilities Privilege Escalation - OpenSSL / SELinux**
   https://medium.com/@int0x33/day-44-linux-capabilities-privilege-escalation-via-openssl-with-selinux-enabled-and-enforced-74d2bec02099
 
 * **SUID vs Capabilities**
@@ -98,10 +98,10 @@ searchsploit samba 2.2.1a
 
 ### Kernel Exploits
 
-* **Kernel Exploits — lucyoa**
+* **Kernel Exploits - lucyoa**
   https://github.com/lucyoa/kernel-exploits
 
-* **OS Kernel — Reference**
+* **OS Kernel - Reference**
   https://en.wikipedia.org/wiki/Kernel_(operating_system)
 
 ### Search Operators
@@ -140,7 +140,7 @@ When using a GTFOBins entry, verify that its prerequisites actually exist on the
 
 ### LinPEAS
 
-* **PEASS-ng — LinPEAS**
+* **PEASS-ng - LinPEAS**
   https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
 
 ### LinEnum
@@ -193,13 +193,13 @@ These resources are not Linux privilege-escalation techniques themselves, but ar
 
 ### Reverse Shell References
 
-* **InternalAllTheThings — Reverse Shell Cheat Sheet**
+* **InternalAllTheThings - Reverse Shell Cheat Sheet**
   https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet
 
-* **PentestMonkey — Reverse Shell Cheat Sheet**
+* **PentestMonkey - Reverse Shell Cheat Sheet**
   https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
 
-* **Kali Linux — Web Shells**
+* **Kali Linux - Web Shells**
 
 ```text
 /usr/share/webshells/
@@ -207,7 +207,7 @@ These resources are not Linux privilege-escalation techniques themselves, but ar
 
 ### PHP Reverse Shell
 
-* **PentestMonkey — PHP Reverse Shell**
+* **PentestMonkey - PHP Reverse Shell**
   https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php
 
 ### Meterpreter / Msfvenom
@@ -217,7 +217,7 @@ These resources are not Linux privilege-escalation techniques themselves, but ar
 
 ### PowerShell
 
-* **HackTricks — Basic PowerShell for Pentesters**
+* **HackTricks - Basic PowerShell for Pentesters**
   https://hacktricks.wiki/en/windows-hardening/basic-powershell-for-pentesters/index.html#download--execute
 
 > The PowerShell resource is cross-platform/offensive tooling material rather than Linux-specific PrivEsc.
@@ -237,7 +237,7 @@ Useful for generating and customizing shell commands for authorized testing envi
 
 After obtaining a limited shell, an interactive TTY can make enumeration and administration considerably easier.
 
-* **Zachary Eller — Spawning a TTY Shell**
+* **Zachary Eller - Spawning a TTY Shell**
   https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell
 
 Common concepts covered by TTY resources include:
@@ -394,5 +394,5 @@ Privilege Escalation
 | GTFOBins                | Binary Abuse Reference | Active             |
 | Kernel Exploits         | Exploit Research       | Reference          |
 | RevShells               | Shell Generation       | Reference          |
-| UACME                   | —                      | Not Linux-specific |
+| UACME                   | -                      | Not Linux-specific |
 
