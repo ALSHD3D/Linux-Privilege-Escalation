@@ -23,7 +23,6 @@ The main areas are:
 * Automated enumeration
 * Shell and TTY references
 
-Resources that are not directly Linux-specific, such as generic reverse-shell and PowerShell material, are kept separately so the core PrivEsc content remains easy to navigate.
 
 ---
 
