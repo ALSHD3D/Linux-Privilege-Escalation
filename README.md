@@ -50,9 +50,6 @@ The main areas are:
 * **HackTricks - Linux Privilege Escalation Checklist**
   https://hacktricks.wiki/en/linux-hardening/main-system-information/linux-privilege-escalation-checklist.html
 
-* **HackTricks - Linux Privilege Escalation**
-  https://hacktricks.wiki/en/linux-hardening/linux-basics/linux-privilege-escalation/index.html
-
 ---
 
 ## 2. Linux Capabilities
