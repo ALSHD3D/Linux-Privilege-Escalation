@@ -44,7 +44,7 @@ The main areas are:
 * **InternalAllTheThings - Linux Privilege Escalation**
   https://swisskyrepo.github.io/InternalAllTheThings/redteam/escalation/linux-privilege-escalation
 
-### Checklists
+### Checklists & Methodologies
 
 * **HackTricks - Linux Privilege Escalation Checklist**
   https://hacktricks.wiki/en/linux-hardening/main-system-information/linux-privilege-escalation-checklist.html
