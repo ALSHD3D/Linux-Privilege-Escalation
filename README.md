@@ -70,7 +70,6 @@ Linux capabilities are a distinct privilege-escalation area and deserve their ow
 getcap -r / 2>/dev/null
 ```
 
----
 
 ## 3. Kernel & Exploit Research
 
@@ -109,7 +108,6 @@ firefox --search "Linux <software> <version> site:exploit-db.com"
 
 Use version-specific searches when researching a suspected vulnerable component.
 
----
 
 ## 4. GTFOBins
 
@@ -129,7 +127,6 @@ Particularly useful areas include:
 
 When using a GTFOBins entry, verify that its prerequisites actually exist on the target.
 
----
 
 ## 5. Automated Linux Enumeration
 
@@ -180,7 +177,6 @@ Verify Privileges
 
 > Automated enumeration should produce leads, not replace manual validation.
 
----
 
 ## 6. Reverse Shells & Payloads
 
@@ -217,7 +213,6 @@ These resources are not Linux privilege-escalation techniques themselves, but ar
 
 > The PowerShell resource is cross-platform/offensive tooling material rather than Linux-specific PrivEsc.
 
----
 
 ## 7. Reverse Shell Customization
 
@@ -226,7 +221,6 @@ These resources are not Linux privilege-escalation techniques themselves, but ar
 
 Useful for generating and customizing shell commands for authorized testing environments.
 
----
 
 ## 8. Shell Upgrade / TTY
 
@@ -249,7 +243,6 @@ Improved enumeration
 Privilege-escalation research
 ```
 
----
 
 ## 9. Quick Reference
 
@@ -334,7 +327,6 @@ printenv
 echo $PATH
 ```
 
----
 
 ## 10. Main Linux PrivEsc Workflow
 
@@ -370,7 +362,6 @@ Manual Validation
 Privilege Escalation
 ```
 
----
 
 ## Resource Status
 
