@@ -4,6 +4,27 @@ Practical resources, guides, checklists, exploit research, enumeration tools, ca
 
 > Use these resources only on systems you own or are explicitly authorized to test.
 
+This repository is intended as a **practical Linux privilege-escalation reference**, rather than a Linux security theory repository.
+
+The main areas are:
+
+* Enumeration
+* Sudo
+* SUID / SGID
+* Linux capabilities
+* Cron jobs
+* Services
+* Writable files and directories
+* Credentials
+* Environment / PATH
+* Containers
+* Kernel vulnerabilities
+* Exploit research
+* Automated enumeration
+* Shell and TTY references
+
+Resources that are not directly Linux-specific, such as generic reverse-shell and PowerShell material, are kept separately so the core PrivEsc content remains easy to navigate.
+
 ---
 
 ## 1. Learn Linux Privilege Escalation
@@ -375,27 +396,3 @@ Privilege Escalation
 | RevShells               | Shell Generation       | Reference          |
 | UACME                   | —                      | Not Linux-specific |
 
----
-
-## Notes
-
-This repository is intended as a **practical Linux privilege-escalation reference**, rather than a Linux security theory repository.
-
-The main areas are:
-
-* Enumeration
-* Sudo
-* SUID / SGID
-* Linux capabilities
-* Cron jobs
-* Services
-* Writable files and directories
-* Credentials
-* Environment / PATH
-* Containers
-* Kernel vulnerabilities
-* Exploit research
-* Automated enumeration
-* Shell and TTY references
-
-Resources that are not directly Linux-specific, such as generic reverse-shell and PowerShell material, are kept separately so the core PrivEsc content remains easy to navigate.
