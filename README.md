@@ -23,7 +23,6 @@ The main areas are:
 * Automated enumeration
 * Shell and TTY references
 
-
 ---
 
 ## 1. Learn Linux Privilege Escalation
